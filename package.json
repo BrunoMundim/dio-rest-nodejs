@@ -1,0 +1,17 @@
+{
+  "name": "ms-autenticacao",
+  "version": "1.0.0",
+  "description": "Micro serviço de autenticação criado durante aulas do curso: Explorando o Estilo Arquitetural REST com Node.js",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build": "tsc -p ."
+  },
+  "author": "BrunoMundim",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "typescript": "^4.6.2"
+  }
+}
